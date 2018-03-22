@@ -6,6 +6,7 @@ Here are gathered useful informations about development tools.
 A simple language allowing to make cool webpage highlighting everything you desire to highlight
 ## Resources
 * [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
+* [Survey of Syntax for Math in MarkDown](https://github.com/cben/mathdown/wiki/math-in-markdown)
 
 # sublime-text 3
 * [Intall Package Control](https://packagecontrol.io/installation), that's a must have
